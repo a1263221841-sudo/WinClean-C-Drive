@@ -1,0 +1,6 @@
+{
+  "name": "WinClean C-Drive Optimizer",
+  "description": "Comprehensive Windows C: drive cleanup toolkit, temporary file remover, disk space optimizer, and PowerShell/batch script generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
